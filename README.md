@@ -1,1 +1,5 @@
 # CogniVisage
+
+The police department is seeking a solution that combines a facial recognition algorithm and an Application Programming Interface (API) to seamlessly connect with real-time databases and Social Media Platforms. The aim is to scan and detect the face of a missing person by searching through both police databases and various internet/social media platforms, with a minimum requirement of three platforms. The system will then compare and match the provided image of the missing person
+against the gathered data.
+The police department is seeking a solution that combines a facial recognition algorithm and an Application Programming Interface (API) to seamlessly connect with real-time databases and Social Media Platforms. The aim is to scan and detect the face of a missing person by searching through both police databases and various internet/social media platforms, with a minimum requirement of three platforms. The system will then compare and match the provided image of the missing person against the gathered data.
