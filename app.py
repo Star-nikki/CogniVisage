@@ -1,17 +1,3 @@
-#!/usr/bin/env python
-
-"""
-//  -------------------------------------------------------------
-//  author        Giga
-//  project       qeeqbox/social-analyzer
-//  email         gigaqeeq@gmail.com
-//  description   app.py (CLI)
-//  licensee      AGPL-3.0
-//  -------------------------------------------------------------
-//  contributors list qeeqbox/social-analyzer/graphs/contributors
-//  -------------------------------------------------------------
-"""
-
 from logging import getLogger, DEBUG, Formatter, Handler, addLevelName, NullHandler
 from logging.handlers import RotatingFileHandler
 from sys import platform, version_info
